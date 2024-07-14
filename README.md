@@ -1,3 +1,3 @@
 # Game-Dev
-[Reference Book](./gamedev.pdf)
-[Lesson 1]()
+- [Reference Book](./gamedev.pdf)
+- [Lesson 1]()
