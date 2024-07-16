@@ -40,3 +40,15 @@
 ## Player Modes
 -  refer to different states or conditions in which a player can interact with the game.
 -  These conditions often dictate the rules, actions, and goals available to the player at any given time.
+
+## Types of Player Modes
+1. Single Player
+   - the player navigates through the game world, completes objectives, and progresses through the game's storyline or challenges independently.
+2. Two Player
+   - players play against each other or team up to fight a common enemy.
+3. Local Multiplayer
+   - all players sit in the same space and play the game on the same machine, sharing the same screen using separate input devices or controllers.
+4. LAN-Based Multiplayer
+   -  players play the game on a local area network without sharing the screen or input device.
+5. Online Multiplayer
+   -  players connect their devices to the Internet and play the game with other players.
