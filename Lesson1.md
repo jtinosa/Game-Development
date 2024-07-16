@@ -32,4 +32,11 @@
 1. **Turn-Based**
    - allows each player, whether artificially generated or human, to take a turn.
    - the time allotted for each turn is usually unlimited. 
-2. **Real-Time** - 
+2. **Real-Time**
+   - actions, events, and changes happen continuously and in sync with real-world time.
+3. **Time-Limited**
+   - refers to a specific period or duration within which certain actions, events, or challenges must be completed by the player.
+  
+## Player Modes
+-  refer to different states or conditions in which a player can interact with the game.
+-  These conditions often dictate the rules, actions, and goals available to the player at any given time.
