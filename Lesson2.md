@@ -51,4 +51,23 @@
       - **First-Person shooters (FPSs)**: the player has first-person perspective and cannot see his or her character onscreen. The player can see the character’s weapons, as well as the other characters in the game.
       - **Third-person shooters**: Allow players to see their characters, along with the rest of the game world. An advantage of third-person shooters is that the player has a much wider perspective than in an FPS—which is limited to straight-ahead vision.
    3. **Racing**: The racing action sub-genre also uses a first-person or third-person perspective. The standard scenario involves the player’s vehicle (usually a racecar) racing one or more opponents on a variety of roads or terrains. The player attempts to make the vehicle move as quickly as possible without losing control of it.
-   4. Fighting: Many fighting games are two-person games in which each player controls a figure on screen and uses a combination of moves to attack the opponent and to defend against the opponent’s attacks. These games are often viewed from a side perspective, and each session lasts only an average of 90 seconds
+   4. **Fighting**: Many fighting games are two-person games in which each player controls a figure on screen and uses a combination of moves to attack the opponent and to defend against the opponent’s attacks. These games are often viewed from a side perspective, and each session lasts only an average of 90 seconds.
+2. **Adventure**
+ - Adventure games are all about unraveling stories, exploring worlds, collecting, navigating mazes, decoding messages, and solving puzzles.
+ - Unlike action games, adventure games are usually turn-based—allowing the player to have time for reflective thoughts.
+3. **Action-Adventure**
+ - action-adventure genre is the only hybrid genre that has distinguished itself as an accepted genre.
+ - The action component allows for quick, reflexive movements as the character dodges and hunts down enemies—while the adventure component adds conceptual puzzles and story elements to the game. Pure adventure gamers are not usually interested in action-adventures because they are used to the slower pace of adventure games.
+ - The action-adventure hybrid has attracted a new audience as well as some pure action players.
+4. **Casino**
+ - Gambling has been shown to be addictive, and some game developers are considering incorporating gambling into more sophisticated electronic games.
+ - Casino games, which are often electronic versions of popular games—such as roulette, craps, poker, blackjack, and slot machines are found in on-ground casinos.
+ - The addiction motivation is closely tied to gambling, and many online versions of this genre are run by online gambling sites.
+5. **Puzzle**
+ - Although puzzle elements appear in many game genres, a pure puzzle game focuses on the player solving a puzzle or series of puzzles without controlling a character.
+ - There is little or no story surrounding in puzzle games, which can be either real-time or turnbased.
+ - The pattern-based puzzle game Tetris—one of the most popular puzzle games of all time, is played in real time, involving a fast-paced game-playing experience.
+6. **Role-Playing Games**
+ - Like adventure games, RPGs are characterized by containing strong storylines—but RPGs also contain player-characters that improve throughout the course of the game.
+ - Themes in RPGs are usually variations on “save the world”, such as finding the person responsible for a murder, rescuing someone who has been kidnapped, destroying a dangerous object, or killing monsters.
+ - Combat is one way in which the heroes advance—gaining strength, experience, and money to buy new equipment.
