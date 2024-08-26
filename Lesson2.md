@@ -24,11 +24,16 @@
 6. Conciousness & Change
  - Games created for social consciousness and change (sometimes termed “games for change”) might be created by non-profit, political, or religious groups to raise awareness of certain beliefs, attitudes, values, lifestyles, and causes.
  - Examples of social issues covered by these games include poverty, human rights, global conflict, and climate change
-8. Aesthetics & Creativy
+7. Aesthetics & Creativy
  - Some games are created to elicit creative expression or aesthetic appreciation from players or are developed to express or share artistic ideas.
  - WarioWare D.I.Y. for the DSi XL allows players to make their own games, music, and comics.
  - Guitar Hero World Tour allows players to create and share instrumentals via its GHTunes Service
-9. Marketing and Advertising
+8. Marketing and Advertising
+ - Some games are created to market a product or service to consumers.
+ - Advergames are specifically designed as advertising tools and used as an alternative to other web-based advertising, such as banners.
+ - Many of these games exist online and are created in Flash or Java tools.
+ - Advertisers pay sites to host these games, which usually feature the advertiser’s brand.
+ - Another online form of game-related marketing is advertainment where sites are developed to showcase a brand contain games and discussion forums, becoming a fun hangout for customers.
 
 ## Genres
 - Categories based on a combination of a subject matter, setting, screen presentation/format, player perspective and game playing strategies.
