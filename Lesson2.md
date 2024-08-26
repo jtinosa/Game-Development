@@ -25,6 +25,9 @@
  - Games created for social consciousness and change (sometimes termed “games for change”) might be created by non-profit, political, or religious groups to raise awareness of certain beliefs, attitudes, values, lifestyles, and causes.
  - Examples of social issues covered by these games include poverty, human rights, global conflict, and climate change
 8. Aesthetics & Creativy
+ - Some games are created to elicit creative expression or aesthetic appreciation from players or are developed to express or share artistic ideas.
+ - WarioWare D.I.Y. for the DSi XL allows players to make their own games, music, and comics.
+ - Guitar Hero World Tour allows players to create and share instrumentals via its GHTunes Service
 9. Marketing and Advertising
 
 ## Genres
