@@ -4,7 +4,7 @@
 
 ## Types of Goals
 1. Entertainment
-   - Many games were developed purely to entertain the players, and many people play games to escape from the stresses of daily life or to relieve boredom.
+ - Many games were developed purely to entertain the players, and many people play games to escape from the stresses of daily life or to relieve boredom.
 2. Social
 4. Educational
 5. Recruitment & Training
