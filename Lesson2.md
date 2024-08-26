@@ -3,32 +3,32 @@
 - Games are developed for a variety of purpose.
 
 ## Types of Goals
-1. Entertainment
+1. **Entertainment**
  - Many games were developed purely to entertain the players, and many people play games to escape from the stresses of daily life or to relieve boredom.
  - Some games are designed to involved players in in-game actions such as role-play, physical movement, and problem-solving.
  - These allow players to take part in creating entertainment experiences.
-2. Social
+2. **Social**
  -  When more than one person is playing a game, the players might be motivated to interact socially with their opponents or team members.
  -  This social interaction could exist in simple two-person games at an arcade or in massively multiplayer online games (MMOs), with thousands of people playing simultaneously.
-3. Educational
+3. **Educational**
  - Games are developed to teach while they entertain.
  - This feature in-game knowledge acquisition—where knowledge of certain topics (such as geography, math, and reading) is taught or accessed within the game itself.
-4. Recruitment & Training
+4. **Recruitment & Training**
  - Games have also been used by the military, government, and even for-profit corporations for recruitment and training purposes.
  - Simulation games, which replicate processes, environments, and objects that exist in the real world, have been used by government and military institutions such as NASA and the Air Force to train astronauts and pilots to adjust to changes in the atmosphere and to navigate vehicles.
  - Corporations have also developed games to help build their employees’ leadership and management skills.
-5. Health & Fitness
+5. **Health & Fitness**
  - Games created for health and fitness include those used for psychological therapy, physical rehabilitation, and even exergames—a subcategory specifically related to fitness.
  - Many exergames are commercial products such as EA Sports Active and Wii Fit, even some music and rhythm games such as Just Dance could be considered exergames.
  - Medical games include Re-Mission, which gives children with cancer a sense of power and control over their disease by battling cancer cells.
-6. Conciousness & Change
+6. **Conciousness & Change**
  - Games created for social consciousness and change (sometimes termed “games for change”) might be created by non-profit, political, or religious groups to raise awareness of certain beliefs, attitudes, values, lifestyles, and causes.
  - Examples of social issues covered by these games include poverty, human rights, global conflict, and climate change
-7. Aesthetics & Creativy
+7. **Aesthetics & Creativy**
  - Some games are created to elicit creative expression or aesthetic appreciation from players or are developed to express or share artistic ideas.
  - WarioWare D.I.Y. for the DSi XL allows players to make their own games, music, and comics.
  - Guitar Hero World Tour allows players to create and share instrumentals via its GHTunes Service
-8. Marketing and Advertising
+8. **Marketing and Advertising**
  - Some games are created to market a product or service to consumers.
  - Advergames are specifically designed as advertising tools and used as an alternative to other web-based advertising, such as banners.
  - Many of these games exist online and are created in Flash or Java tools.
@@ -40,11 +40,11 @@
 - In looking at your target market, consider what genre these people play because some players focus on playing one particular genre.
 
 ## Types of Genres
-1. Action
+1. **Action**
  - The goal of most action games involves quickly destroying your enemies while avoiding being destroyed yourself.
  - These games tend to be simpler because they focus on player reaction time.
  - Simplicity is necessary for action games because the average brain cannot process much additional information in a fast-paced environment.
  - People are motivated to play action games for the adrenaline rush involving quick reflexes and snap judgments, focusing on reflexive actions rather than reflective thoughts.
- - Action Sub-Genre
-  - 1.1 Platformer: The platformer action sub-genre focuses on players moving quickly through an environment—often jumping and dodging to avoid obstacles, and sometimes collecting items along the way.
-  - 1.2 Shooters: The shooter action sub-genre focuses on combat between a player and the other characters in the game world, usually in the form of shooting with guns and other weapons controlled by the character’s hands.
+ - **Action Sub-Genre**
+  - **Platformer**: The platformer action sub-genre focuses on players moving quickly through an environment—often jumping and dodging to avoid obstacles, and sometimes collecting items along the way.
+  - **Shooters**: The shooter action sub-genre focuses on combat between a player and the other characters in the game world, usually in the form of shooting with guns and other weapons controlled by the character’s hands.
