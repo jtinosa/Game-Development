@@ -48,3 +48,5 @@
  - **Action Sub-Genre**:
    1. **Platformer**: The platformer action sub-genre focuses on players moving quickly through an environment—often jumping and dodging to avoid obstacles, and sometimes collecting items along the way.
    2. **Shooters**: The shooter action sub-genre focuses on combat between a player and the other characters in the game world, usually in the form of shooting with guns and other weapons controlled by the character’s hands.
+      - First-person perspective and cannot see his or her character onscreen. The player can see the character’s weapons, as well as the other characters in the game.
+      - Third-person shooters: Allow players to see their characters, along with the rest of the game world. An advantage of third-person shooters is that the player has a much wider perspective than in an FPS—which is limited to straight-ahead vision
