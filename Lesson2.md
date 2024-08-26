@@ -37,5 +37,6 @@
 
 ## Genres
 - Categories based on a combination of a subject matter, setting, screen presentation/format, player perspective and game playing strategies.
+- In looking at your target market, consider what genre these people play because some players focus on playing one particular genre.
 
 ## Types of Genres
