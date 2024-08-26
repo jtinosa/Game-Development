@@ -45,6 +45,6 @@
  - These games tend to be simpler because they focus on player reaction time.
  - Simplicity is necessary for action games because the average brain cannot process much additional information in a fast-paced environment.
  - People are motivated to play action games for the adrenaline rush involving quick reflexes and snap judgments, focusing on reflexive actions rather than reflective thoughts.
-Action Sub-Genre
-1.1 Platformer: The platformer action sub-genre focuses on players moving quickly through an environment—often jumping and dodging to avoid obstacles, and sometimes collecting items along the way.
-1.2 Shooters: The shooter action sub-genre focuses on combat between a player and the other characters in the game world, usually in the form of shooting with guns and other weapons controlled by the character’s hands.
+ - Action Sub-Genre
+  - 1.1 Platformer: The platformer action sub-genre focuses on players moving quickly through an environment—often jumping and dodging to avoid obstacles, and sometimes collecting items along the way.
+  - 1.2 Shooters: The shooter action sub-genre focuses on combat between a player and the other characters in the game world, usually in the form of shooting with guns and other weapons controlled by the character’s hands.
