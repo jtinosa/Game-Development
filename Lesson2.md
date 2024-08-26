@@ -10,6 +10,8 @@
  -  When more than one person is playing a game, the players might be motivated to interact socially with their opponents or team members.
  -  This social interaction could exist in simple two-person games at an arcade or in massively multiplayer online games (MMOs), with thousands of people playing simultaneously.
 3. Educational
+ - Games are developed to teach while they entertain.
+ - This feature in-game knowledge acquisition—where knowledge of certain topics (such as geography, math, and reading) is taught or accessed within the game itself.
 5. Recruitment & Training
 6. Health & Fitness
 7. Conciousness & Change
