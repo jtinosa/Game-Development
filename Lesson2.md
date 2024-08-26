@@ -21,7 +21,9 @@
  - Games created for health and fitness include those used for psychological therapy, physical rehabilitation, and even exergames—a subcategory specifically related to fitness.
  - Many exergames are commercial products such as EA Sports Active and Wii Fit, even some music and rhythm games such as Just Dance could be considered exergames.
  - Medical games include Re-Mission, which gives children with cancer a sense of power and control over their disease by battling cancer cells.
-7. Conciousness & Change
+6. Conciousness & Change
+ - Games created for social consciousness and change (sometimes termed “games for change”) might be created by non-profit, political, or religious groups to raise awareness of certain beliefs, attitudes, values, lifestyles, and causes.
+ - Examples of social issues covered by these games include poverty, human rights, global conflict, and climate change
 8. Aesthetics & Creativy
 9. Marketing and Advertising
 
