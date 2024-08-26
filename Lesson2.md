@@ -71,3 +71,10 @@
  - Like adventure games, RPGs are characterized by containing strong storylines—but RPGs also contain player-characters that improve throughout the course of the game.
  - Themes in RPGs are usually variations on “save the world”, such as finding the person responsible for a murder, rescuing someone who has been kidnapped, destroying a dangerous object, or killing monsters.
  - Combat is one way in which the heroes advance—gaining strength, experience, and money to buy new equipment.
+7. **Simulations**
+ - (Sometimes referred to as sims) attempt to replicate systems, machines, and experiences using real-world rules.
+ - Types of simulation games include vehicle, participatory, and process sims.
+ - **Simulations Sub-Genre**:
+  1. **Vehicle Simulations**: The player usually operates complicated machinery (often vehicles such as jet fighters, ships, or tanks). In addition to being developed for entertainment purposes, adaptations of these simulators have been used widely by the military for training and recruiting purposes.
+  2. **Sports and Participatory Simulations**: Engages the player to experience the simulation as a participant within it. The sports genre is a type of participatory sim because—like other sims— sports games often accurately reproduce real-world rules and strategies associated with the sport. Players vicariously participate in their favorite sport—as a player and often a coach. This allows players to experience “wish fulfillment”—to become extraordinary athletes, and to accomplish things they might not be able to in real life.
+  3. **Process Simulations (Construction & Management)**: Process simulations involve real-world systems or processes. These games are also known as construction and management sims (CMS), or toy games. The goal in process sims is not to defeat an enemy or opponent, but to build something within a process. These games are considered constructive—involving building and creating rather than destructive. To win these games, players need to understand and control these processes.
