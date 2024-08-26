@@ -84,3 +84,7 @@
  - **Strategy Sub-Genres**:
    1. **Turn-Based Strategy (TBS)**: In TBS games, resource management involves discrete decisions such as what types of resources to create, when to deploy them, and how to use them to the best advantage. The player’s ability to take the time to make these decisions is part of the game’s appeal.
    2. **Real-Time Strategy**: These games incorporate a real-time interval. RTS players are under such constant time pressure that they do not have the opportunity to truly ponder a move. Common issues in RTS games is micromanagement—the process of rapidly balancing sets of resources (troops) containing several features. Since the game moves quickly in real-time, one set of resources might flourish while others fail because the player cannot feasibly focus on all sets at once. The player must employ a certain level of multitasking to avoid some of these disasters.
+9. **Massively Multiplayer Online Games (MMO)**
+ - These games enable hundreds or thousands of players to interact in a game world simultaneously they are connected to via the Internet.
+ - There are several variations in the MMO genre, and these are massively multiplayer online role-playing games (MMORPG), massively multiplayer first-person shooters (MMOFPSs), and massively multiplayer real-time strategy games (MMORTSs).
+ - One common issue in MMO is the player’s misbehavior. Some players are simply rude while others harass, cheat, or even commit fraud, providing a more serious threat to others’ enjoyment of the game.
