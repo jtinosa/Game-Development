@@ -17,7 +17,10 @@
  - Games have also been used by the military, government, and even for-profit corporations for recruitment and training purposes.
  - Simulation games, which replicate processes, environments, and objects that exist in the real world, have been used by government and military institutions such as NASA and the Air Force to train astronauts and pilots to adjust to changes in the atmosphere and to navigate vehicles.
  - Corporations have also developed games to help build their employees’ leadership and management skills.
-6. Health & Fitness
+5. Health & Fitness
+ - Games created for health and fitness include those used for psychological therapy, physical rehabilitation, and even exergames—a subcategory specifically related to fitness.
+ - Many exergames are commercial products such as EA Sports Active and Wii Fit, even some music and rhythm games such as Just Dance could be considered exergames.
+ - Medical games include Re-Mission, which gives children with cancer a sense of power and control over their disease by battling cancer cells.
 7. Conciousness & Change
 8. Aesthetics & Creativy
 9. Marketing and Advertising
